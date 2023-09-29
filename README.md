@@ -40,6 +40,7 @@ To build this project we are using the following technologies:
 - <span>[**Prisma**](https://www.prisma.io/) </span>
 - <span>[**MySQL**](https://www.mysql.com/) </span>
 - <span>[**Planet Scale**](https://planetscale.com/) </span>
+- <span>[**Stripe**](https://stripe.com/) </span>
 
 ## Getting Started
 ### Prerequisites
@@ -55,12 +56,12 @@ Open a terminal follow the steps bellow
 1. Clone the repository: 
 
 ``` bash 
- $ git clone https://github.com/enoquetembe/ignite-call.git
+ $ git clone https://github.com/room-organization/ecommerce-admin.git
 ```
 
 - Got to the project directory 
 ``` bash 
-2. cd ignite-call
+2. cd ecommerce-admin
 ```
 
 3. Install depedencies
