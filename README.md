@@ -153,7 +153,7 @@ $ GET /colors/id
 
 #  Checkout
 
-$ POST /checout
+$ POST /checkout
 ```
 
 ## Contributing
