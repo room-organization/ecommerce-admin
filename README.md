@@ -120,8 +120,43 @@ DATABASE_URL="mysql://root:root@localhost:3306/<YourDatabaseName>"
 npm run dev
 ```
 
-## Contributing
+## API Routes for client side
 
+```js
+# Prouducts routes
+
+$ GET /products
+$ GET /products/id
+
+
+# Billboard Rouetes
+
+$ GET /billboards
+$ GET /billboards/id
+
+# Categories routes
+
+$ GET /categories
+$ GET /categories/id
+
+
+# Sizes routes
+
+$ GET /sizes
+$ GET /sizes/id
+
+
+#  Colors routes
+
+$ GET /colors
+$ GET /colors/id
+
+#  Checkout
+
+$ POST /checout
+```
+
+## Contributing
 
 Follow these steps to make your contribution.
 
