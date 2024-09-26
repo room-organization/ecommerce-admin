@@ -8,7 +8,7 @@
 </div>
 
 ## Fetures
-- This admin dashboard is going to serve as both CMS, Admin and API!
+- This admin dashboard is going to serve as both CMS, Admin and API
 - The user will be able to control mulitple vendors / stores through this single CMS! (For example the user can have a "Shoe store" and a "Laptop store" and a "Suit store", and our CMS will generate API routes for all of those individually!)
 - The user will be able to create, update and delete categories!
 - The user will be able to create, update and delete products!
